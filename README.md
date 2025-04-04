@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi My name is carlos and i'm from Guatemala</h1>
+<h1 align="center">Hi My name is Carlos and i'm from Guatemala</h1>
 
 ###
 
